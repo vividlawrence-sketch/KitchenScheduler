@@ -1,0 +1,10 @@
+opencv-python
+pytesseract
+mss
+pygetwindow
+pyautogui
+numpy
+Pillow
+requests
+pandas
+python-dateutil
